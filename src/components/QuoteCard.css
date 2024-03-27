@@ -1,0 +1,17 @@
+.container{
+    /* position: relative;
+    top: 90px; */
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    /* margin: 30px; */
+    border-radius: .5rem;
+}
+.container > p{
+    font-size: 30px;
+    font-weight: 500;
+}
+.author-text{
+    color: #9ca3af;
+}
